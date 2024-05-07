@@ -1,0 +1,30 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+header{
+	background-image: url(food.jpg);
+	background-size: cover;
+	background-position: center;
+}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+h1, h2 {
+	font-family: "Ultra", serif;
+	font-weight: 400;
+	font-style: normal;
+}
+.lead {
+	font-family: "Cormorant Garamond", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+
+.custom-navbar-color {
+	background-color:#ff2c2c;
+}
